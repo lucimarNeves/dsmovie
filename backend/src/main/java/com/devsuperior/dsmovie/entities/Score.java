@@ -19,11 +19,11 @@ public class Score {
 	public Score() {}
 
 	public void setMovie(Movie movie) {
-		this.setMovie(movie);
+		id.setMovie(movie);
 	}
 	
 	public void setUser(User user) {
-		this.setUser(user);
+		id.setUser(user);
 	}
 	
 	public ScorePk getId() {
